@@ -16,6 +16,14 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
 
-### Resutados
+### Resutados do Setoolkit
+
+![image](https://github.com/user-attachments/assets/64bd80ba-ec6d-4e3a-8bea-7b4ed7386913)
+![image](https://github.com/user-attachments/assets/6315196c-1ee6-459b-b460-be59de5b8031)
+
+
+
+
+
 
 ![Alt text](./passwd.png "Optional title")
